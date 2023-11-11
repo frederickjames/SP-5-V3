@@ -2,7 +2,7 @@
 
 The [printer.cfg](printer.cfg) is based on the stock SP-5 V3 motherboard, Makerbase Robin Nano v3.1
 
-If you want to use the macros for start/end, replace the existing start/end G-code with the following. The START_PRINT macro assumes you have a mesh named default.
+If you want to use the [macros](SP-5_V3_macro.cfg) for start/end, replace the existing start and end G-code with the following. The START_PRINT macro assumes you have a mesh named default. (Works in Cura, ymmv.)
 Start G-code:
 ```
 START_PRINT BED_TEMP={material_bed_temperature_layer_0} EXTRUDER_TEMP={material_print_temperature_layer_0}

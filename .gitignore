@@ -1,0 +1,11 @@
+# Ignore other people's designs
+Printed Parts\_Downladed
+
+# Ignore log files
+*.log
+
+# Ignore compiled binary files
+*.exe
+*.dll
+*.so
+*.dylib

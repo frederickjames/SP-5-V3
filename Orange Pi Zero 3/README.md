@@ -10,4 +10,4 @@ I am using a UART connection between Orange Pi Zero 3 and the Robin Nano v3.1. U
 |8|TX|RX|J2 Header - 4|
 |10|RX|TX|J2 Header - 3|
 
-![Cross the streams becasue you're not a ghost buster.](images/UART_Wiring.png "Cross the streams becasue you're not a ghost buster.")
+![Cross the streams becasue you're not a ghost buster.](../_media/UART_Wiring.png "Cross the streams becasue you're not a ghost buster.")

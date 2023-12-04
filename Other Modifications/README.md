@@ -1,4 +1,4 @@
-# Printed Parts
+# Other Modifications
 
 Modifications were needed to tune this thing and make it print way nicer. Outside of updating to klipper and running it off of an Orange Pi, here are the modifications:
 

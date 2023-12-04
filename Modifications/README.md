@@ -22,7 +22,7 @@ I found  some parts on Amazon that had close enough dimensions. I think they are
 
 ## Automatic Bed Leveling and Probing
 
-The knockoff kind of BL Touch that the Klipper documentation warns you about. It doesn't resond to the self test or some of the other diagnostic stuff, but it works.  You can see the setup in [the config file](//Klipper%20Config/printer.cfg). Print [this crappy mount if you want](Touch Mount.3mf). I may redesign later, but probably only if this one breaks or I take off the useless metal shroud it's attached to (more likely).
+The knockoff kind of BL Touch that the Klipper documentation warns you about. It doesn't resond to the self test or some of the other diagnostic stuff, but it works.  You can see the setup in [the config file](../Klipper%20Config/printer.cfg). Print [this crappy mount if you want](Touch%20Mount.3mf). I may redesign later, but probably only if this one breaks or I take off the useless metal shroud it's attached to (more likely).
 
 - [3D Touch](https://www.amazon.com/dp/B09M9V8Y4Y "trust me, bro.")
 
@@ -30,7 +30,7 @@ The knockoff kind of BL Touch that the Klipper documentation warns you about. It
 
 ## Springs
 
-Probably not necessary, but I like them and they are cheap. I did have to make [some little spacers](SiliconeBedMountSpacers "put them on the bottom") to go under the Silicone springs becasue they were not tall enough.
+Probably not necessary, but I like them and they are cheap. I did have to make [some little spacers](SiliconeBedMountSpacers.3mf "put them on the bottom") to go under the Silicone springs becasue they were not tall enough.
 
 - [3D Printer Heat Bed Leveling Parts](https://www.amazon.com/dp/B093Y89KS9)
 

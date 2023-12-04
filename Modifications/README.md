@@ -11,7 +11,7 @@ Modifications were needed to tune this thing and make it print way nicer. Outsid
 
 ---
 
-##All Metal Hotend
+## All Metal Hotend
 
 I found  some parts on Amazon that had close enough dimensions. I think they are a long way from good, but no worse than the stock setup.  I'll look around for hotend upgrades and update when I find something better.
 
@@ -20,15 +20,15 @@ I found  some parts on Amazon that had close enough dimensions. I think they are
 
 ---
 
-##ABL
+## Automatic Bed Leveling and Probing
 
-The knockoff kind of BL Touch that the Klipper documentation warns you about. It doesn't resond to the self test or some of the other diagnostic stuff, but it works. Print [this crappy mount if you want](Touch Mount.3mf). I may redesign later, but probably only if this one breaks or I take off the useless metal shroud it's attached to (more likely).
+The knockoff kind of BL Touch that the Klipper documentation warns you about. It doesn't resond to the self test or some of the other diagnostic stuff, but it works.  You can see the setup in [the config file](//Klipper%20Config/printer.cfg). Print [this crappy mount if you want](Touch Mount.3mf). I may redesign later, but probably only if this one breaks or I take off the useless metal shroud it's attached to (more likely).
 
 - [3D Touch](https://www.amazon.com/dp/B09M9V8Y4Y "trust me, bro.")
 
 ---
 
-##Springs
+## Springs
 
 Probably not necessary, but I like them and they are cheap. I did have to make [some little spacers](SiliconeBedMountSpacers "put them on the bottom") to go under the Silicone springs becasue they were not tall enough.
 
@@ -36,7 +36,7 @@ Probably not necessary, but I like them and they are cheap. I did have to make [
 
 ---
 
-##Z Axis
+## Z Axis
 
 I was having a lot of trouble with z wobble and high pitch squeaking noise as the z axis moved so I looked at a bunch of videos and other stuff. Below is a list of what I did to change address the issue.
 Starting from the bottom and working my way up, I put thrust bearings under the coupler to get the weaight of the Z assembly off the motors. They are held in place with a [little print](NEMA17_Thrust_Bearing_Holder.3mf) that fits over the heads of the motor mount screws.

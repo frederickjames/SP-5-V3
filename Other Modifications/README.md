@@ -26,24 +26,18 @@ The knockoff kind of BL Touch that the Klipper documentation warns you about. It
 
 Print [this crappy mount if you want](Touch%20Mount.3mf). ~~I may redesign later, but probably only if this one breaks or I take off the useless metal shroud it's attached to (more likely).~~
 
-Offsets for crappy mount:
-
-x_offset: -33
-
-y_offset: 25
-
-z_offset: 3.00
+Offsets for crappy mount:  
+x_offset: -33  
+y_offset: 25  
+z_offset: 3.00  
 
 
 Or, when that one breaks becasue it's crap and you want to remove the useless metal shroud so you can see what's going on, you can [print this mount](Touch%20Mount%20-%20Back.3mf). It screws to the back of the print head where the rear shroud was attached. You will need longer M3 screws (I used M3x10mm, but 8mm would work too).
 
-Offsets for less crappy mount:
-
-x_offset: 0
-
-y_offset: 25
-
-z_offset: 3.1
+Offsets for less crappy mount:\
+x_offset: 0\
+y_offset: 25\
+z_offset: 3.1\
 
 
 Both mounts are likely compatible with other Touch probes like the BL and Creality, but I have not tested.

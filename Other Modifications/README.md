@@ -37,7 +37,7 @@ Or, when that one breaks becasue it's crap and you want to remove the useless me
 Offsets for less crappy mount:\
 x_offset: 0\
 y_offset: 25\
-z_offset: 3.1\
+z_offset: 3.1
 
 
 Both mounts are likely compatible with other Touch probes like the BL and Creality, but I have not tested.

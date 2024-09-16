@@ -1,6 +1,6 @@
 # Volcano (style) Hotend Bracket
 
-I came across an old [YouTube from ModBot](https://www.youtube.com/watch?v=cXx1_OsDcIc) where he put an E3Dv6 on an older Two Trees coreXY.  Inspired by the mount he found, I designed one for the SP5-V3 and purchased a [cheap Volcano clone from Amazon](https://www.amazon.com/dp/B0BR7Z63H8).  Inspired by the mount he found, [I designed my own](Volcano%20Bracket).
+I came across an old [YouTube from ModBot](https://www.youtube.com/watch?v=cXx1_OsDcIc) where he put an E3Dv6 on an older Two Trees coreXY.  Inspired by the mount he found, I designed one for the SP5-V3 and purchased a [cheap Volcano clone from Amazon](https://www.amazon.com/dp/B0BR7Z63H8).  Inspired by the mount he found, [I designed my own](Volcano%20Hotend%20Mount.step).
 
 It is basically a replacement for the bracke that the stock heatsink is attached too and reuses some stock parts.
 
@@ -32,11 +32,11 @@ There are 4 parts to print wth the Touch Mount being optional (if you don't use 
 
 
 
-![Aint she pretty!](../_media/VolcanoAdapter/Front_Installed.jpg "Front view.")
-![And check out that rear!](../_media/VolcanoAdapter/Back_Installed.jpg "Out of focus back view.").
-!["Heat Shield" viewed from below](../_media/VolcanoAdapter/FronUp_Nozzle.jpg "Heat shield installed - bottom view.")
-![Assembly front](../_media/VolcanoAdapter/Assembly_View_Front.jpg "Assembly in progress, front view.")
-![Assembly top](../_media/VolcanoAdapter/Top_View.jpg "Assembly in progress, top view.")
-![Assembly back](../_media/VolcanoAdapter/Pre-Touch.jpg "Assembly in progress, back view.")
+![Aint she pretty!](.../_media/VolcanoAdapter/Front_Installed.jpg "Front view.")
+![And check out that rear!](.../_media/VolcanoAdapter/Back_Installed.jpg "Out of focus back view.").
+!["Heat Shield" viewed from below](.../_media/VolcanoAdapter/FronUp_Nozzle.jpg "Heat shield installed - bottom view.")
+![Assembly front](.../_media/VolcanoAdapter/Assembly_View_Front.jpg "Assembly in progress, front view.")
+![Assembly top](.../_media/VolcanoAdapter/Top_View.jpg "Assembly in progress, top view.")
+![Assembly back](.../_media/VolcanoAdapter/Pre-Touch.jpg "Assembly in progress, back view.")
 ![Assembly back quarter with touch mounted](../_media/VolcanoAdapter/Touch_Mounted.jpg "Assembly in progress, back quarter view.")
-![BLAST OFF!](../_media/VolcanoAdapter/Blast_Off.jpg "Going on a trip.")
+![BLAST OFF!](.../_media/VolcanoAdapter/Blast_Off.jpg "Going on a trip.")

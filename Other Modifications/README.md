@@ -15,12 +15,12 @@ Modifications were needed to tune this thing and make it print way nicer. Outsid
 
 #### I have a [new solution](#volcano-cheap-clone-hotend)
 
-~~I found  some parts on Amazon that had close enough dimensions. I think they are a long way from good, but no worse than the stock setup.  I'll look around for hotend upgrades and update when I find something better.
+~~I found  some parts on Amazon that had close enough dimensions. I think they are a long way from good, but no worse than the stock setup.  I'll look around for hotend upgrades and update when I find something better.~~
 
-- [Some random Titanium Alloy Therman Heat Break](https://www.amazon.com/dp/B07JD2S4GK)
-- [Some cheap nozzles that are long enough to meet the heatbreak in the heater block](https://www.amazon.com/dp/B0C283TNWK)
+- ~~[Some random Titanium Alloy Therman Heat Break](https://www.amazon.com/dp/B07JD2S4GK)~~
+- ~~[Some cheap nozzles that are long enough to meet the heatbreak in the heater block](https://www.amazon.com/dp/B0C283TNWK)~~
 
-You may also want to print [new 4010 Ducts](4010%20Duct%20Replacement.3mf). I only made these because I broke one of the existing ducts.  If you want to use it, you'll need to print it as is and a mirror for the left side.~~
+~~You may also want to print [new 4010 Ducts](4010%20Duct%20Replacement.3mf). I only made these because I broke one of the existing ducts.  If you want to use it, you'll need to print it as is and a mirror for the left side.~~
 
 ---
 

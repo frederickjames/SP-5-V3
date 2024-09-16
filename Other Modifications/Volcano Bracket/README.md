@@ -36,11 +36,11 @@ There are 4 parts to print wth the Touch Mount being optional (if you don't use 
 
 
 
-![Aint she pretty!](../../_media/VolcanoAdapter/Front_Installed.jpg "Front view.")
-![And check out that rear!](../../_media/VolcanoAdapter/Back_Installed.jpg "Out of focus back view.").
+![Front view.](../../_media/VolcanoAdapter/Front_Installed.jpg "Front view.")
+![Out of focus back view.](../../_media/VolcanoAdapter/Back_Installed.jpg "Out of focus back view.").
 !["Heat Shield" viewed from below](../../_media/VolcanoAdapter/Up_Nozzle.jpg "Heat shield installed - bottom view.")
 ![Assembly front](../../_media/VolcanoAdapter/Assembly_View_Front.jpg "Assembly in progress, front view.")
 ![Assembly top](../../_media/VolcanoAdapter/Top_View.jpg "Assembly in progress, top view.")
 ![Assembly back](../../_media/VolcanoAdapter/Pre-Touch.jpg "Assembly in progress, back view.")
 ![Assembly back quarter with touch mounted](../../_media/VolcanoAdapter/Touch_Mounted.jpg "Assembly in progress, back quarter view.")
-![BLAST OFF!](../../_media/VolcanoAdapter/Blast_Off.jpg "Going on a trip.")
+![BLAST OFF!](../../_media/VolcanoAdapter/Blast_Off.jpg "BLAST OFF!")

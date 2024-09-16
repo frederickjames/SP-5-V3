@@ -3,11 +3,12 @@
 Modifications were needed to tune this thing and make it print way nicer. Outside of updating to klipper and running it off of an Orange Pi, here are the modifications:
 
 - All metal hotend (It's 2023, get the PTFE out of the melt zone)
-- ABL (3D Touch knockoff)
-- Silicone bed "springs"
-- Rigid shaft couplings between the stepper and the Z lead screws
-- Oldham couplings for the Z lead screws
-- Thrust Bearings to support the Z lead screws
+- [Even better hotend solution](#volcano-cheap-clone-hotend)
+- [ABL (3D Touch knockoff)](#automatic-bed-leveling-and-probing)
+- [Silicone bed "springs"](#springs)
+- [Rigid shaft couplings between the stepper and the Z lead screws](#z-axis)
+- [Oldham couplings for the Z lead screws](#z-axis)
+- [Thrust Bearings to support the Z lead screws](#z-axis)
 
 ---
 

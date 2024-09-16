@@ -7,3 +7,7 @@ This project documents the work I've done to make the Two Trees SP-5 V3 printer 
 - [Orange Pi Zero 3 for Klipper](/Orange%20Pi%20Zero%203/)
 - [Klipper Config](/Klipper%20Config/)
 - [Other modifications](/Other%20Modifications/)
+ - [Hotend](/Other%20Modifications#volcano-cheap-clone-hotend)
+ - [ABL (3D Touch knockoff)](#automatic-bed-leveling-and-probing)
+ - [Silicone bed "springs"](#springs)
+ - [Z-Axis Changes](#z-axis)

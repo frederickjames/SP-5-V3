@@ -24,19 +24,23 @@ There are 4 parts to print wth the Touch Mount being optional (if you don't use 
     5. Slide into place low enough that the shield will be just below the heatsink fan.
 8. Install the heatsink fan. If you completed optional step 7, then the bottom of the fan shuld be in contact with the surface of the heat shield.
 8. Insert your new PTFE tube from the top and replace teh extruder assembly. I cut my PTFE long to start with and trimmed a bit at a time until the extruder seated correctly.
-9. If you have a touch probe:
+9. Optional: Install touch probe.
     1. Fasten the probe to the mounting bracket from the bottom using M3x6 screws (or however yo want to fasten it).
     2. Loosly fasten the mount to the back of Back using M3x10 screws through the elongated holes and into the bottom set of holes on the main body.
     3. Adjust the mount to the desired height and tickets the screws to hold it in place.
+10. PID tune the new hotend.
+```
+ PID_CALIBRATE HEATER=extruder TARGET=210
+```
 
 
 
 
-![Aint she pretty!](.../_media/VolcanoAdapter/Front_Installed.jpg "Front view.")
-![And check out that rear!](.../_media/VolcanoAdapter/Back_Installed.jpg "Out of focus back view.").
-!["Heat Shield" viewed from below](.../_media/VolcanoAdapter/FronUp_Nozzle.jpg "Heat shield installed - bottom view.")
-![Assembly front](.../_media/VolcanoAdapter/Assembly_View_Front.jpg "Assembly in progress, front view.")
-![Assembly top](.../_media/VolcanoAdapter/Top_View.jpg "Assembly in progress, top view.")
-![Assembly back](.../_media/VolcanoAdapter/Pre-Touch.jpg "Assembly in progress, back view.")
-![Assembly back quarter with touch mounted](../_media/VolcanoAdapter/Touch_Mounted.jpg "Assembly in progress, back quarter view.")
-![BLAST OFF!](.../_media/VolcanoAdapter/Blast_Off.jpg "Going on a trip.")
+![Aint she pretty!](../../_media/VolcanoAdapter/Front_Installed.jpg "Front view.")
+![And check out that rear!](../../_media/VolcanoAdapter/Back_Installed.jpg "Out of focus back view.").
+!["Heat Shield" viewed from below](../../_media/VolcanoAdapter/Up_Nozzle.jpg "Heat shield installed - bottom view.")
+![Assembly front](../../_media/VolcanoAdapter/Assembly_View_Front.jpg "Assembly in progress, front view.")
+![Assembly top](../../_media/VolcanoAdapter/Top_View.jpg "Assembly in progress, top view.")
+![Assembly back](../../_media/VolcanoAdapter/Pre-Touch.jpg "Assembly in progress, back view.")
+![Assembly back quarter with touch mounted](../../_media/VolcanoAdapter/Touch_Mounted.jpg "Assembly in progress, back quarter view.")
+![BLAST OFF!](../../_media/VolcanoAdapter/Blast_Off.jpg "Going on a trip.")

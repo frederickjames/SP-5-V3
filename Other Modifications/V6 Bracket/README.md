@@ -10,8 +10,7 @@ There are 4 parts to print wth the Touch Mount being optional (if you don't use 
 
 1. Remove the stock hotend, heatsink fan, and 4010 blower fan mounts from the stock carriage and the extruder.
 2. Attach the [3010 mount](3010%20Mount.3mf) using 2 M3x10 screws from the top.
-3. Clamp the [Front](Front.3mf) and [Back](Back.3mf) around the neck of the Heatsink.
-4. Attach the stock part cooler fan mounts using M3x6 (or M3x8). Right and left side are different - the nozzle should be lined up roughly with the middle of the fan mount.
+3. Clamp the [Front](Front.3mf) and [Back](Back.3mf) around the neck of the Heatsink and hold in place with the stock part cooler fan mounts using M3x6 (or M3x8). Right and left side are different - the nozzle should be lined up roughly with the middle of the fan mount.
 4. Insert the new PTFE tube
     1. Cut a new piece of PTFE tubing. My final length is about 60.5 mm, but I would recommend you cut it a bit longer and trim it later.
     2. Place it into the hot end making sure it is firmly seated
@@ -39,13 +38,13 @@ There are 4 parts to print wth the Touch Mount being optional (if you don't use 
 ```
 
 
-
-
+![Assembly front](../../_media/V6Adapter/Assembly_View_Front.jpg "Assembly in progress, front view.")
+![Assembly top](../../_media/V6Adapter/Top_View.jpg "Assembly in progress, top view.")
+![PTFE Brace fitted](../../_media/V6Adapter/PTFE_Bracket_Prep.jpg "It's pretty")
+![Assembly back](../../_media/V6Adapter/Pre-Touch.jpg "Assembly in progress, back view.")
+![Assembly back quarter with touch mounted](../../_media/V6Adapter/Touch_Mounted.jpg "Assembly in progress, back quarter view.")
 ![Front view.](../../_media/V6Adapter/Front_Installed.jpg "Front view.")
 ![Out of focus back view.](../../_media/V6Adapter/Back_Installed.jpg "Out of focus back view.").
 !["Heat Shield" viewed from below](../../_media/V6Adapter/Up_Nozzle.jpg "Heat shield installed - bottom view.")
-![Assembly front](../../_media/V6Adapter/Assembly_View_Front.jpg "Assembly in progress, front view.")
-![Assembly top](../../_media/V6Adapter/Top_View.jpg "Assembly in progress, top view.")
-![Assembly back](../../_media/VV6Adapter/Pre-Touch.jpg "Assembly in progress, back view.")
-![Assembly back quarter with touch mounted](../../_media/V6Adapter/Touch_Mounted.jpg "Assembly in progress, back quarter view.")
+![PTFE Brce installed](../../_media/V6Adapter/PTFE_Bracket_Installed.jpg "It's tight, but it fits.")
 ![BLAST OFF!](../../_media/V6Adapter/Blast_Off.jpg "BLAST OFF!")

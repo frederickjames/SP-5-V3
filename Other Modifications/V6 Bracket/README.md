@@ -1,6 +1,6 @@
-# Volcano (style) Hotend Bracket
+# V6 (style) Hotend Bracket
 
-I came across an old [YouTube from ModBot](https://www.youtube.com/watch?v=cXx1_OsDcIc) where he put an E3Dv6 on an older Two Trees coreXY.  Inspired by the mount he found, I designed one for the SP5-V3 and purchased a [cheap Volcano clone from Amazon](https://www.amazon.com/dp/B0BR7Z63H8).  Inspired by the mount he found, [I designed my own](Volcano%20Hotend%20Mount.step).
+I came across an old [YouTube from ModBot](https://www.youtube.com/watch?v=cXx1_OsDcIc) where he put an E3Dv6 on an older Two Trees coreXY.  Inspired by the mount he found, I designed one for the SP5-V3 and purchased a [cheap V6 clone from Amazon](https://www.amazon.com/dp/B0BR7Z63H8).  Inspired by the mount he found, [I designed my own](V6%20Hotend%20Mount.step).
 
 It is basically a replacement for the bracke that the stock heatsink is attached too and reuses some stock parts.
 
@@ -12,6 +12,9 @@ There are 4 parts to print wth the Touch Mount being optional (if you don't use 
 2. Attach the 3010 mount using 2 M3x10 screws from the top.
 3. Clamp the Front and Back around the neck of the Heatsink.
 4. Attach the stock part cooler fan mounts using M3x6 (or M3x8). Right and left side are different - the nozzle should be lined up with the middle of the fan.
+4. Insert the new PTFE tube
+    1. Cut a new piece of PTFE tubing. My final length is about 60.5 mm, but I would recommend you cut it a bit longer and trim it later.
+    2. Place it into the 
 5. The assembly so far will attach to the carriage in the same location as the heatsink brack was removed reusing the M3x8 bolts, but it's a bit tricky.
     1. The 2 posts in the back will go on the outside of the carriage. To insert the screw, I passed my Allen key through the front mounting holes then passed the M3 screw in from the side with tweezers so I could screw from inside.
     2. After the back is screwed in, you can insert the M3's to fasten the front.
@@ -36,11 +39,11 @@ There are 4 parts to print wth the Touch Mount being optional (if you don't use 
 
 
 
-![Front view.](../../_media/VolcanoAdapter/Front_Installed.jpg "Front view.")
-![Out of focus back view.](../../_media/VolcanoAdapter/Back_Installed.jpg "Out of focus back view.").
-!["Heat Shield" viewed from below](../../_media/VolcanoAdapter/Up_Nozzle.jpg "Heat shield installed - bottom view.")
-![Assembly front](../../_media/VolcanoAdapter/Assembly_View_Front.jpg "Assembly in progress, front view.")
-![Assembly top](../../_media/VolcanoAdapter/Top_View.jpg "Assembly in progress, top view.")
-![Assembly back](../../_media/VolcanoAdapter/Pre-Touch.jpg "Assembly in progress, back view.")
-![Assembly back quarter with touch mounted](../../_media/VolcanoAdapter/Touch_Mounted.jpg "Assembly in progress, back quarter view.")
-![BLAST OFF!](../../_media/VolcanoAdapter/Blast_Off.jpg "BLAST OFF!")
+![Front view.](../../_media/V6Adapter/Front_Installed.jpg "Front view.")
+![Out of focus back view.](../../_media/V6Adapter/Back_Installed.jpg "Out of focus back view.").
+!["Heat Shield" viewed from below](../../_media/V6Adapter/Up_Nozzle.jpg "Heat shield installed - bottom view.")
+![Assembly front](../../_media/V6Adapter/Assembly_View_Front.jpg "Assembly in progress, front view.")
+![Assembly top](../../_media/V6Adapter/Top_View.jpg "Assembly in progress, top view.")
+![Assembly back](../../_media/VV6Adapter/Pre-Touch.jpg "Assembly in progress, back view.")
+![Assembly back quarter with touch mounted](../../_media/V6Adapter/Touch_Mounted.jpg "Assembly in progress, back quarter view.")
+![BLAST OFF!](../../_media/V6Adapter/Blast_Off.jpg "BLAST OFF!")

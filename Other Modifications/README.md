@@ -3,7 +3,7 @@
 Modifications were needed to tune this thing and make it print way nicer. Outside of updating to klipper and running it off of an Orange Pi, here are the modifications:
 
 - All metal hotend (It's 2023, get the PTFE out of the melt zone)
-- [Even better hotend solution](#volcano-cheap-clone-hotend)
+- [Even better hotend solution](#v6-cheap-clone-hotend)
 - [ABL (3D Touch knockoff)](#automatic-bed-leveling-and-probing)
 - [Silicone bed "springs"](#springs)
 - [Rigid shaft couplings between the stepper and the Z lead screws](#z-axis)
@@ -14,7 +14,7 @@ Modifications were needed to tune this thing and make it print way nicer. Outsid
 
 ## All Metal Hotend
 
-#### I have a [new solution](#volcano-cheap-clone-hotend)
+#### I have a [new solution](#v6-cheap-clone-hotend)
 
 ~~I found  some parts on Amazon that had close enough dimensions. I think they are a long way from good, but no worse than the stock setup.  I'll look around for hotend upgrades and update when I find something better.~~
 
@@ -25,9 +25,9 @@ Modifications were needed to tune this thing and make it print way nicer. Outsid
 
 ---
 
-## Volcano (cheap clone) Hotend
+## V6 (cheap clone) Hotend
 
-I changed the hotend. The modifications I previously did where lackluster. I got tired of repairing and when it fell apart this time I just decided to replace.  I came across an old [YouTube from ModBot](https://www.youtube.com/watch?v=cXx1_OsDcIc) where he put an E3Dv6 on an older Two Trees coreXY.  Inspired by the mount he found, [I designed my own](Volcano%20Bracket) and purchased a [cheap Volcano clone from Amazon](https://www.amazon.com/dp/B0BR7Z63H8).
+I changed the hotend. The modifications I previously did where lackluster. I got tired of repairing and when it fell apart this time I just decided to replace.  I came across an old [YouTube from ModBot](https://www.youtube.com/watch?v=cXx1_OsDcIc) where he put an E3Dv6 on an older Two Trees coreXY.  Inspired by the mount he found, [I designed my own](V6%20Bracket) and purchased a [cheap V6 clone from Amazon](https://www.amazon.com/dp/B0BR7Z63H8).
 
 ---
 

@@ -8,9 +8,9 @@ This project documents the work I've done in an attempt to make the Two Trees SP
 - [Klipper Config](/Klipper%20Config/)
 - [Other modifications](/Other%20Modifications/)
  - [Hotend](/Other%20Modifications#v6-cheap-clone-hotend)
- - [ABL (3D Touch knockoff)](#automatic-bed-leveling-and-probing)
- - [Silicone bed "springs"](#springs)
- - [Z-Axis Changes](#z-axis)
+ - [ABL (3D Touch knockoff)](/Other%20Modifications#automatic-bed-leveling-and-probing)
+ - [Silicone bed "springs"](/Other%20Modifications#springs)
+ - [Z-Axis Changes](/Other%20Modifications#z-axis)
 
 
 ### Fixing Motion System

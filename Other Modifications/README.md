@@ -29,6 +29,8 @@ Modifications were needed to tune this thing and make it print way nicer. Outsid
 
 I changed the hotend. The modifications I previously did where lackluster. I got tired of repairing and when it fell apart this time I just decided to replace.  I came across an old [YouTube from ModBot](https://www.youtube.com/watch?v=cXx1_OsDcIc) where he put an E3Dv6 on an older Two Trees coreXY.  Inspired by the mount he found, [I designed my own](V6%20Mount) and purchased a [cheap V6 clone from Amazon](https://www.amazon.com/dp/B0BR7Z63H8).
 
+*UPDATE 2025-01-30: *I noticed that the bare plastic version where the M3 cut the threads was a little wobbly. It still printed, but I needed an excuse to make something. So I added a version with threaded inserts for the main body that holds the heatsink. You'll need 4 M3x6x5 threaded inserts.
+
 ---
 
 ## Automatic Bed Leveling and Probing
